@@ -37,7 +37,13 @@ This project focuses on analysing challenges in the telecommunications industry 
 - `src/` — Python source code.
 
 ## Current Progress
-Week 1: Research planning, business questions, potential data sources, hypotheses, and analytics strategy.
+Week 1 Report
+
+The Week 1 report documents the research planning, telecom business questions, potential public data sources, research hypotheses, proposed KPIs, and Python-based analytics methodology.
+
+**Report file:** `Telecom_Data_Analytics_Week1_Report.docx`
+
+**Status:** Research planning report prepared. Dataset analysis and findings will be documented in subsequent stages.
 
 ## Expected Outcomes
 A structured research report and a data-driven approach to understanding telecom industry challenges.
