@@ -37,13 +37,41 @@ This project focuses on analysing challenges in the telecommunications industry 
 - `src/` — Python source code.
 
 ## Current Progress
-Week 1 Report
 
-The Week 1 report documents the research planning, telecom business questions, potential public data sources, research hypotheses, proposed KPIs, and Python-based analytics methodology.
+Week 1: Research Planning and Telecom Analytics
+
+The Week 1 task focused on research planning, identifying telecom business problems, selecting potential datasets, defining KPIs, and outlining a Python-based analytics methodology.
+
+**Work Completed:**
+- Identified key telecom analytics areas, including customer churn, network performance, and service quality.
+- Researched potential public telecom datasets and data sources.
+- Defined research questions, hypotheses, and relevant KPIs.
+- Outlined how Python-based data analysis can support telecom business decisions.
+- Prepared and submitted the Week 1 report.
 
 **Report file:** `Telecom_Data_Analytics_Week1_Report.docx`
 
-**Status:** Research planning report prepared. Dataset analysis and findings will be documented in subsequent stages.
+**Status:** Submitted and evaluated. Score: 47.3/100. Feedback highlighted the need for more concrete examples, numerical evidence, deeper analysis, and strategic recommendations. These improvements are being incorporated into subsequent tasks.
+
+Week 2: Exploratory Data Analysis (EDA) and Data Cleaning
+
+The Week 2 task focused on exploring and cleaning the Telco Customer Churn dataset using Python.
+
+**Work Completed:**
+- Analyzed a dataset containing 7,043 rows and 21 columns.
+- Converted `TotalCharges` from text to numeric format.
+- Identified 11 missing values in `TotalCharges` and preserved them for further validation.
+- Calculated the customer churn rate: 26.54% (1,869 customers).
+- Applied the IQR method to `MonthlyCharges`; no potential outliers were detected.
+- Created visualizations for monthly charges and customer churn.
+- Applied StandardScaler to create standardized numerical features.
+- Prepared the Week 2 EDA and Data Cleaning report.
+
+**Report file:** `Week_2_Telecom_EDA_Report_FIXED.docx`
+
+**Tools Used:** Python, Pandas, NumPy, Matplotlib, Scikit-learn.
+
+**Status:** Analysis and report prepared. Internship portal submission and evaluation are pending confirmation.
 
 ## Expected Outcomes
 A structured research report and a data-driven approach to understanding telecom industry challenges.
