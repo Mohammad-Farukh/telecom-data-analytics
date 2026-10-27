@@ -38,6 +38,8 @@ This project focuses on analysing challenges in the telecommunications industry 
 
 ## Current Progress
 
+**Overall Status:** Week 1 submitted and evaluated. Week 2 EDA and data cleaning analysis and report prepared; portal submission and evaluation status to be updated.
+
 Week 1: Research Planning and Telecom Analytics
 
 The Week 1 task focused on research planning, identifying telecom business problems, selecting potential datasets, defining KPIs, and outlining a Python-based analytics methodology.
